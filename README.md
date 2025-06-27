@@ -1,10 +1,10 @@
 # Wireframing
 
-**What is wireframing ?**
+## What is wireframing ?
 
 Wireframing is a crucial step in the design process, serving as a blueprint or skeletal framework of a website or application. It outlines the basic structure and layout without delving into detailed design elements like colors, fonts, or images. Wireframes focus on the placement of elements, navigation flow, and overall user interface structure.
 
-**Importance of Wireframing in the Design Process**
+## Importance of Wireframing in the Design Process
 
 **1. Clarifies Ideas and Concepts:**
 
@@ -38,7 +38,7 @@ Making changes to a wireframe is quicker and less costly than altering a high-fi
 
 - By stripping away visual design elements, wireframes allow designers to concentrate on the functionality and user experience, ensuring the product is intuitive and user-friendly.
 
-**Key Elements in a Wireframe**
+## Key Elements in a Wireframe
 
 - **Layout Structure:** Defines the arrangement of elements on the page.
 
@@ -48,7 +48,7 @@ Making changes to a wireframe is quicker and less costly than altering a high-fi
 
 - **Functionality:** Outlines key functionalities and interactions.
 
-**Types of Wireframes**
+## Types of Wireframes
 
 - **Low-Fidelity Wireframes:** Simple sketches or basic digital layouts focusing on overall structure and functionality without detailed design.
 
@@ -97,7 +97,7 @@ Making changes to a wireframe is quicker and less costly than altering a high-fi
 
 Figma’s combination of ease-of-use, collaboration features, and extensibility makes it ideal for both rapid wireframing and scaling up to high-fidelity design and prototyping.
 
-**Benefits of wireframing from a software development perspective**
+## Benefits of wireframing from a software development perspective
 
  **Catch problems early**—Though they don’t present the actual functionality of a page, wireframes allow you to map out how all the elements will look and interact once the design is put into a working prototype. It’s way easier to re-work part of a wireframe than it is to rebuild a prototype or web application.
 
